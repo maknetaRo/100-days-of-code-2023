@@ -10,7 +10,26 @@ I always wanted to do something with images. As I use images a lot in my daily j
 
 ---
 
-### Day 1&2: July 19 & 20 , 2023
+Template
+
+### Day 3: July 20, 2023
+
+**Today's Progress:**
+
+1. Scaled down an image to fit canva, but now the image is blury.
+
+**Thoughts:**
+Haven't read anything about filters or presets in photography but wanted to play a bit with filters in CSS. But as mentioned above, after scaling down an image, it's blury now. So now I need to fix this issue.
+
+**Link to work:**
+https://github.com/maknetaRo/thing/commit/4ecba51270d433d62dd72931536f5e8f2dddf29d
+
+**Resources:**
+https://medium.com/@doomgoober/understanding-html-canvas-scaling-and-sizing-c04925d9a830
+
+---
+
+### Day 1&2: July 18 & 19 , 2023
 
 **Today's Progress:**
 
