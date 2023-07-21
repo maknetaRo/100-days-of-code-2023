@@ -10,7 +10,21 @@ I always wanted to do something with images. As I use images a lot in my daily j
 
 ---
 
-Template
+### Day 4: July21, 2023
+
+**Today's Progress:**
+I hit the wall. I want to access different functions on click but instead the last one is firing or none of them.
+
+**Thoughts:**
+Hope to find help reading about canvas experiments or googling a bit more tomorrow.
+
+**Link to work:**
+https://github.com/maknetaRo/thing/commit/d9d0a1b64def977c3e3b6b33f4a18204bdbc64ab
+
+**Resources:**
+https://webdesign.tutsplus.com/21-ridiculously-impressive-html5-canvas-experiments--net-14210a
+
+---
 
 ### Day 3: July 20, 2023
 
